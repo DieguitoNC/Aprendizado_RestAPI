@@ -5,3 +5,7 @@
 ![alt text](./assets/image4.png)
 
 - Nesse projeto, estarei anotando sobre REST API e meu aprendizado !
+
+# Aprendizados
+- Criacao de um conteiner, adicionando uma base de dados com MariaDB
+![alt text](./assets/image5.png)
